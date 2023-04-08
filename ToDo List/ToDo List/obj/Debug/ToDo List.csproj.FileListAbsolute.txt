@@ -1,0 +1,6 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\bin\Debug\ToDo List.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\bin\Debug\ToDo List.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\bin\Debug\ToDo List.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\obj\Debug\ToDo List.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\obj\Debug\ToDo List.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ToDo List\ToDo List\obj\Debug\ToDo List.pdb
